@@ -1,0 +1,3 @@
+interface ConnectionType{
+    void connect();
+}
